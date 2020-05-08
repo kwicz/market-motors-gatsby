@@ -1,23 +1,5 @@
 # Market Motors
-A [Gatsby v2](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycms.org) powered generic business website.
 
-It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
-
-## Demo
-[Gatsby Starter Business](https://gatsby-starter-business.netlify.com)
-
-## Features
-* Complete Business Website Suite - Home Page, About Page, Pricing Page, Contact Page and Blog
-* Netlify CMS for Content Management
-* SEO Friendly (Sitemap, Schemas, Meta Tags, GTM etc)
-* Bulma and Sass Support for styling
-* Progressive Web App & Offline Support
-* Tags and RSS Feed for Blog
-* Disqus and Share Support
-* Elastic-Lunr Search (NEW)
-* Pagination (NEW)
-* Contact Form (Netlify Forms)
-* Easy Configuration using `config.js` file
 
 ## Prerequisite
 * Node
@@ -94,3 +76,20 @@ Clicking the button will ask for authentication via Github, which will create a 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/v4iv/gatsby-starter-business&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 You can read up on how to set up Identity(Authentication for CMS User) here [How To Set Up Netlify CMS](https://www.netlifycms.org/docs/add-to-your-site/)
+
+### Technologies Used
+* [React.js](https://reactjs.org/)
+* [Material-UI](https://material-ui.com/)
+* [Gatsby JS](https://www.gatsbyjs.org/)
+* [Gatby Starter Proplogue](https://www.gatsbyjs.org/starters/anubhavsrivastava/gatsby-starter-business/) by Anubhav Srivatstava
+* [JAMstack architecture](https://jamstack.org)
+* [Netlify](https://www.netlify.com)
+
+### Support and Contact Details
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/market-motors/issues) here on GitHub._
+
+### License
+
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
+
+Copyright (c) 2020 **_K. Wicz_**
